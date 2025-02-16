@@ -1,10 +1,22 @@
-odd {
+.odd {
     background-color: #ffb6c1;
     font-family: 'Verdana' sans-serif;
 }
 
-element-2 {
+#element-2 {
     color: blue;
     font-size: 36px;
 
+}
+
+.fn24 {
+    font-size: 24px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#forth {
+    background-color: lightgreen ;
 }
